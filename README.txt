@@ -15,5 +15,5 @@ and run the queries:
 
 									 
 Now that the database and the tables are created simply run the 
-assingment_3.py script and find out which movies are on Greek
+movies_on_Greek_theaters.py script and find out which movies are on Greek
 theaters!
